@@ -3,3 +3,4 @@ if __name__ == "__main__":
     print("test pull")
     print("aaa")
     print("bbb")
+    print("ccc")
